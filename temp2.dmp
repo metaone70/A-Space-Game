@@ -1,0 +1,103 @@
+
+******* 74 Label(s) *******
+beginning = $0828 
+BR1 = $0850 
+bullet = $971B 
+button = $09D8 
+buttondown = $971C 
+bytecount = $971D 
+checkbounce = $09E3 
+clean = $0BE3 
+collanım = $0BEE 
+collıded = $0A76 
+collıded2 = $0AE2 
+collısıoncheck = $0A6A 
+colloop = $0BF0 
+createbullet = $0A16 
+createenemybullet = $0C83 
+debounce = $971A 
+delay = $0C26 
+dısappear = $0A43 
+down = $09B1 
+drawcol = $0C16 
+drawscreen = $08D3 
+endtext1 = $9725 
+endtext2 = $972E 
+enemybullet = $9721 
+enemybulletdısappear = $0CAC 
+enemybulletmove = $0C9F 
+enemyfıre = $0C73 
+enemyshıp = $0A51 
+fınalıze = $09F0 
+fınalızenemybullet = $0CB9 
+fıre = $0A09 
+gameover = $0B5E 
+go = $0B60 
+go2 = $0B6D 
+go3 = $0B79 
+go4 = $0B86 
+ınnerloop = $08F3 
+ınput = $0B95 
+ınputk = $095E 
+ırq = $0CF5 
+key = $9723 
+keytitle = $9724 
+left = $09BE 
+lıves = $9722 
+loadimage = $092B 
+loop = $08F1 
+maınloop = $0837 
+maınshıp = $09A1 
+move = $0A38 
+playmusıc = $0987 
+playsound = $0CD0 
+plotdıgıt = $0C6B 
+rıght = $09CB 
+score = $971E 
+setupsprıtes = $0857 
+sınex = $9743 
+sıney = $9843 
+sloop = $0C54 
+sound = $0D00 
+Sound_Inıt = $084C 
+spr0pos = $9710 
+spr1pos = $9712 
+spr2pos = $9714 
+spr3pos = $9716 
+spr4pos = $9718 
+start = $0810 
+stopmusıc = $0990 
+titlescreen = $090C 
+up = $09A4 
+updatelıves = $0CC6 
+waıt1 = $0C28 
+waıt2 = $0C2F 
+waıtraster = $0999 
+wrıtescore = $0C35 
+
+******* 4 Unused label(s) *******
+keytitle
+Sound_Inıt
+start
+up
+
+******* 9 Variable(s) *******
+SB  = $D418
+screen  = $0741
+screen2  = $06A3
+screen3  = $05EB
+screen3col  = $D9EB
+screen4  = $0635
+screen4col  = $DA35
+SND  = $D400
+tgt_c64  = $0001
+******* 8 Unused variables(s) *******
+SB
+screen
+screen3
+screen3col
+screen4
+screen4col
+SND
+tgt_c64
+

@@ -1,0 +1,64 @@
+
+******* 50 Label(s) *******
+bullet = $0B5B 
+button = $092D 
+buttondown = $0B5C 
+bytecount = $0B5D 
+checkbounce = $0938 
+collanım = $0A28 
+collıded = $09BF 
+collıded2 = $0B00 
+collısıon2check = $0AF8 
+collısıoncheck = $09B7 
+colloop = $0A2A 
+createbullet = $096B 
+createenemybullet = $0ABD 
+debounce = $0B5A 
+delay = $0A60 
+dısappear = $0990 
+down = $0906 
+drawcol = $0A50 
+enemybullet = $0B62 
+enemybulletdısappear = $0ADE 
+enemybulletmove = $0AD1 
+enemyfıre = $0AAD 
+enemyshıp = $099E 
+fınalıze = $0945 
+fınalızenemybullet = $0AEB 
+fıre = $095E 
+ınnerloop = $0843 
+left = $0913 
+lıvescheck = $0B4F 
+loop = $0841 
+maınloop = $08D6 
+maınshıp = $08F6 
+move = $0985 
+plotdıgıt = $0AA5 
+rıght = $0920 
+score = $0B5E 
+sınex = $0B63 
+sıney = $0C63 
+sloop = $0A8E 
+spr0pos = $0B50 
+spr1pos = $0B52 
+spr2pos = $0B54 
+spr3pos = $0B56 
+spr4pos = $0B58 
+spranımcount = $0B61 
+up = $08F9 
+waıt1 = $0A62 
+waıt2 = $0A69 
+waıtraster = $08EE 
+wrıtescore = $0A6F 
+
+******* 2 Unused label(s) *******
+spranımcount
+up
+
+******* 2 Variable(s) *******
+screen  = $0741
+tgt_c64  = $0001
+******* 2 Unused variables(s) *******
+screen
+tgt_c64
+

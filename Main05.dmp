@@ -1,0 +1,31 @@
+
+******* 14 Label(s) *******
+bit_table = $093F 
+button = $0910 
+checkbounce = $091B 
+debounce = $0810 
+done = $0928 
+down = $08CE 
+left = $08CF 
+maınloop = $08C7 
+rıght = $08EF 
+sprxhı = $080F 
+sprxlo = $080D 
+sprxlo_ext = $080E 
+up = $08CD 
+waıtraster = $0937 
+
+******* 3 Unused label(s) *******
+@ınnerloop
+@loop
+@nomsbchangeleft
+@nomsbchangerıght
+down
+left
+up
+
+******* 1 Variable(s) *******
+tgt_c64  = $0001
+******* -3 Unused variables(s) *******
+tgt_c64
+

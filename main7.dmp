@@ -1,0 +1,34 @@
+
+******* 11 Label(s) *******
+bullet = $0997 
+buttondown = $0998 
+debounce = $080E 
+fıre = $0952 
+maınloop = $08C5 
+maınshıp = $08D1 
+spr1pos = $0991 
+spr1xlo = $080D 
+spr2pos = $0993 
+spr3pos = $0995 
+waıtraster = $094A 
+
+******* 1 Unused label(s) *******
+@button
+@checkbounce
+@createbullet
+@dısappear
+@down
+@fınalıze
+@ınnerloop
+@left
+@loop
+@move
+@rıght
+@up
+spr1xlo
+
+******* 1 Variable(s) *******
+tgt_c64  = $0001
+******* -11 Unused variables(s) *******
+tgt_c64
+

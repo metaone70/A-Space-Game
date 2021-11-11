@@ -1,0 +1,18 @@
+
+******* 5 Label(s) *******
+ınput = $081D 
+key = $0835 
+loop = $0812 
+playsound = $0810 
+reg = $0836 
+
+******* 1 Unused label(s) *******
+playsound
+
+******* 2 Variable(s) *******
+sid  = $D400
+tgt_c64  = $0001
+******* 2 Unused variables(s) *******
+sid
+tgt_c64
+

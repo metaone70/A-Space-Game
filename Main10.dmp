@@ -1,0 +1,36 @@
+
+******* 24 Label(s) *******
+bullet = $0968 
+button = $08F1 
+buttondown = $0969 
+bytecount = $096A 
+createbullet = $0921 
+dısappear = $0947 
+down = $08D8 
+enemyshıp = $0955 
+fınalıze = $08F9 
+fıre = $0912 
+ınnerloop = $0845 
+left = $08E5 
+loop = $0843 
+maınloop = $08B1 
+maınshıp = $08C8 
+move = $093C 
+rıght = $08EB 
+sınex = $096B 
+sıney = $0A6B 
+spr1pos = $0810 
+spr2pos = $0812 
+spr3pos = $0814 
+up = $08CB 
+waıtraster = $08C0 
+
+******* 2 Unused label(s) *******
+spr2pos
+up
+
+******* 1 Variable(s) *******
+tgt_c64  = $0001
+******* 1 Unused variables(s) *******
+tgt_c64
+

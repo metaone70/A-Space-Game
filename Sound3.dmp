@@ -1,0 +1,19 @@
+
+******* 7 Label(s) *******
+BR1 = $0814 
+FX_AD = $084A 
+FX_HI = $0852 
+FX_LO = $0856 
+FX_SR = $084E 
+FX_WF = $085A 
+waıtraster = $0842 
+
+******* 0 Unused label(s) *******
+
+******* 2 Variable(s) *******
+SB  = $D400
+tgt_c64  = $0001
+******* 2 Unused variables(s) *******
+SB
+tgt_c64
+

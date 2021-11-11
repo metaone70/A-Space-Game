@@ -1,0 +1,19 @@
+
+******* 6 Label(s) *******
+button = $08E0 
+done = $08EA 
+forever = $08C5 
+left = $08CC 
+rıght = $08D6 
+sprx = $080D 
+
+******* 1 Unused label(s) *******
+@ınnerloop
+@loop
+left
+
+******* 1 Variable(s) *******
+tgt_c64  = $0001
+******* -1 Unused variables(s) *******
+tgt_c64
+

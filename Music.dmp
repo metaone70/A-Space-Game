@@ -1,0 +1,13 @@
+
+******* 2 Label(s) *******
+ırq = $0839 
+playmusıc = $0810 
+
+******* 1 Unused label(s) *******
+playmusıc
+
+******* 1 Variable(s) *******
+tgt_c64  = $0001
+******* 1 Unused variables(s) *******
+tgt_c64
+

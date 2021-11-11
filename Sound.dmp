@@ -1,0 +1,14 @@
+
+******* 2 Label(s) *******
+BR1 = $0814 
+main = $081A 
+
+******* 1 Unused label(s) *******
+main
+
+******* 2 Variable(s) *******
+SB  = $D400
+tgt_c64  = $0001
+******* 1 Unused variables(s) *******
+tgt_c64
+

@@ -1,0 +1,27 @@
+
+******* 12 Label(s) *******
+button = $08E8 
+checkbounce = $08F3 
+debounce = $080F 
+done = $0900 
+down = $08CD 
+left = $08CE 
+maınloop = $08C6 
+rıght = $08DB 
+sprxhı = $080E 
+sprxlo = $080D 
+up = $08CC 
+waıtraster = $090F 
+
+******* 3 Unused label(s) *******
+@ınnerloop
+@loop
+down
+left
+up
+
+******* 1 Variable(s) *******
+tgt_c64  = $0001
+******* -1 Unused variables(s) *******
+tgt_c64
+
