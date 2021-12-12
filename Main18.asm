@@ -31,7 +31,6 @@ start
         lda #03
         sta lıves
 
-        ;jsr playsound
         jsr drawscreen
         jsr setupsprıtes
         jsr Sound_Inıt
@@ -106,7 +105,7 @@ setupsprıtes
         sta $d01b
 
         ; set sprıte poınters
-        lda #$a0        ; maın shıp
+        lda #$a0        ; maın shıp --> $2800
         sta $07F8
         lda #$a1        ; enemy shıp
         sta $07F9
@@ -124,7 +123,7 @@ setupsprıtes
 
 ;-----------------draw screen rotıne----------------------------------------
 drawscreen
-                  lda #$00
+                lda #$00
                 sta $fb
                 sta $fd         ; $0400 Screen RAM
                 sta $f7
