@@ -1128,11 +1128,11 @@
   <character>
     <charcode>86</charcode>
     <chardata>
+      <data>16</data>
       <data>0</data>
       <data>0</data>
       <data>0</data>
       <data>0</data>
-      <data>32</data>
       <data>0</data>
       <data>0</data>
       <data>0</data>
@@ -1142,12 +1142,12 @@
     <charcode>87</charcode>
     <chardata>
       <data>0</data>
-      <data>0</data>
       <data>16</data>
       <data>0</data>
       <data>0</data>
       <data>0</data>
-      <data>4</data>
+      <data>0</data>
+      <data>0</data>
       <data>0</data>
     </chardata>
   </character>
@@ -1155,33 +1155,33 @@
     <charcode>88</charcode>
     <chardata>
       <data>0</data>
-      <data>64</data>
+      <data>0</data>
+      <data>16</data>
       <data>0</data>
       <data>0</data>
       <data>0</data>
       <data>0</data>
-      <data>8</data>
       <data>0</data>
     </chardata>
   </character>
   <character>
     <charcode>89</charcode>
     <chardata>
-      <data>6</data>
-      <data>6</data>
-      <data>6</data>
-      <data>6</data>
-      <data>6</data>
-      <data>6</data>
-      <data>6</data>
-      <data>6</data>
+      <data>0</data>
+      <data>0</data>
+      <data>0</data>
+      <data>16</data>
+      <data>0</data>
+      <data>0</data>
+      <data>0</data>
+      <data>0</data>
     </chardata>
   </character>
   <character>
     <charcode>90</charcode>
     <chardata>
       <data>0</data>
-      <data>2</data>
+      <data>0</data>
       <data>0</data>
       <data>0</data>
       <data>16</data>
@@ -1193,14 +1193,14 @@
   <character>
     <charcode>91</charcode>
     <chardata>
-      <data>24</data>
-      <data>24</data>
-      <data>24</data>
-      <data>255</data>
-      <data>255</data>
-      <data>24</data>
-      <data>24</data>
-      <data>24</data>
+      <data>0</data>
+      <data>0</data>
+      <data>0</data>
+      <data>0</data>
+      <data>0</data>
+      <data>16</data>
+      <data>0</data>
+      <data>0</data>
     </chardata>
   </character>
   <character>
@@ -1208,25 +1208,25 @@
     <chardata>
       <data>0</data>
       <data>0</data>
-      <data>8</data>
-      <data>28</data>
-      <data>54</data>
-      <data>28</data>
-      <data>8</data>
+      <data>0</data>
+      <data>0</data>
+      <data>0</data>
+      <data>0</data>
+      <data>16</data>
       <data>0</data>
     </chardata>
   </character>
   <character>
     <charcode>93</charcode>
     <chardata>
-      <data>24</data>
-      <data>24</data>
-      <data>24</data>
-      <data>24</data>
-      <data>24</data>
-      <data>24</data>
-      <data>24</data>
-      <data>24</data>
+      <data>0</data>
+      <data>0</data>
+      <data>0</data>
+      <data>0</data>
+      <data>0</data>
+      <data>0</data>
+      <data>0</data>
+      <data>16</data>
     </chardata>
   </character>
   <character>
